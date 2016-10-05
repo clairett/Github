@@ -7,5 +7,7 @@ git push origin master
 ```
 
 ## Delete or edit a file
+```
 git add .
 git commit -m "delete"
+```
